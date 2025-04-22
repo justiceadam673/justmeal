@@ -31,7 +31,7 @@ const meals = [
     id: 4,
     name: "Yam and Egg Sauce",
     img: {
-      src: "https://upload.wikimedia.org/wikipedia/commons/6/64/Yam_and_Egg_Sauce.jpg",
+      src: "https://upload.wikimedia.org/wikipedia/commons/6/64/Yam_and_Egg_Sauce.jpg ",
       alt: "yam and egg sauce",
     },
     mealType: "Breakfast",
