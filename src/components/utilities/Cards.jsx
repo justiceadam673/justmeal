@@ -3,7 +3,7 @@ import React from "react";
 const Cards = ({ key, image, alt, name, mealType }) => {
   return (
     <main>
-      <div className='w-full h-full place-content-center max-h-100 transition-transform transform hover:scale-105 hover:shadow-xl duration-300 ease-in-out bg-red-200 rounded-3xl p-4 text-center'>
+      <div className='lg:w-full w-80 my-3 lg:h-full h-full place-self-center place-content-center max-h-100 transition-transform transform hover:scale-105 hover:shadow-xl duration-300 ease-in-out bg-red-200 rounded-3xl p-4 text-center '>
         {key}
         <img
           src={image}
